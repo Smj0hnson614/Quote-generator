@@ -4,7 +4,7 @@ body {
 }
 
 a {
-  color: #855df1;
+  color: salmon;
 }
 
 .container {
@@ -45,7 +45,7 @@ form {
 
 .submit-button {
   margin-left: 10px;
-  background-color: #855df1;
+  background-color: salmon;
   color: white;
   border: none;
   width: 150px;
@@ -64,6 +64,9 @@ form {
   border-radius: 10px;
 }
 
+.quote strong {
+  color: salmon;
+}
 footer {
   text-align: center;
   font-size: 13px;
